@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 Statistical Rethinking book Errata
 ==========
 
